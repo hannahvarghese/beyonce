@@ -15,3 +15,7 @@ I am seeing Beyoncé when she comes to Dallas for the RENAISSANCE TOUR, and I co
 * ["The Transformation & Liberation of Beyoncé" by David Deal ](https://davidjdeal.medium.com/the-transformation-liberation-of-beyonc%C3%A9-853db3a2074d#:~:text=After%20creating%20a%20body%20of,she%20has%20become%20culturally%20relevant.)
 * ["Iconic Beyoncé Lyrics: Take at look at Queen Bey’s Iconic Words" by Conner Flynn](https://www.seatunique.com/blog/beyonces-best-lyrics/)
 * ["3 Major Themes From Beyoncé's New Album 'Lemonade'" by Amanda Wicks](https://www.cbsnews.com/sanfrancisco/news/3-major-themes-from-beyonces-new-album-lemonade/)
+
+### Built With
+* Python
+* API
